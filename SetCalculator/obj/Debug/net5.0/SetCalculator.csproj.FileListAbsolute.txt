@@ -1,0 +1,16 @@
+C:\Projects\CSahrp\SetCalculator\SetCalculator\bin\Debug\net5.0\SetCalculator.exe
+C:\Projects\CSahrp\SetCalculator\SetCalculator\bin\Debug\net5.0\SetCalculator.deps.json
+C:\Projects\CSahrp\SetCalculator\SetCalculator\bin\Debug\net5.0\SetCalculator.runtimeconfig.json
+C:\Projects\CSahrp\SetCalculator\SetCalculator\bin\Debug\net5.0\SetCalculator.runtimeconfig.dev.json
+C:\Projects\CSahrp\SetCalculator\SetCalculator\bin\Debug\net5.0\SetCalculator.dll
+C:\Projects\CSahrp\SetCalculator\SetCalculator\bin\Debug\net5.0\ref\SetCalculator.dll
+C:\Projects\CSahrp\SetCalculator\SetCalculator\bin\Debug\net5.0\SetCalculator.pdb
+C:\Projects\CSahrp\SetCalculator\SetCalculator\obj\Debug\net5.0\SetCalculator.csproj.AssemblyReference.cache
+C:\Projects\CSahrp\SetCalculator\SetCalculator\obj\Debug\net5.0\SetCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSahrp\SetCalculator\SetCalculator\obj\Debug\net5.0\SetCalculator.AssemblyInfoInputs.cache
+C:\Projects\CSahrp\SetCalculator\SetCalculator\obj\Debug\net5.0\SetCalculator.AssemblyInfo.cs
+C:\Projects\CSahrp\SetCalculator\SetCalculator\obj\Debug\net5.0\SetCalculator.csproj.CoreCompileInputs.cache
+C:\Projects\CSahrp\SetCalculator\SetCalculator\obj\Debug\net5.0\SetCalculator.dll
+C:\Projects\CSahrp\SetCalculator\SetCalculator\obj\Debug\net5.0\ref\SetCalculator.dll
+C:\Projects\CSahrp\SetCalculator\SetCalculator\obj\Debug\net5.0\SetCalculator.pdb
+C:\Projects\CSahrp\SetCalculator\SetCalculator\obj\Debug\net5.0\SetCalculator.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\CSahrp\\SetCalculator\\SetCalculator\\SetCalculator\\SetCalculator.csproj",
+      "projectUniqueName": "C:\\Projects\\CSahrp\\SetCalculator\\SetCalculator\\SetCalculator.csproj",
       "projectName": "SetCalculator",
-      "projectPath": "C:\\Projects\\CSahrp\\SetCalculator\\SetCalculator\\SetCalculator\\SetCalculator.csproj",
+      "projectPath": "C:\\Projects\\CSahrp\\SetCalculator\\SetCalculator\\SetCalculator.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\CSahrp\\SetCalculator\\SetCalculator\\SetCalculator\\obj\\",
+      "outputPath": "C:\\Projects\\CSahrp\\SetCalculator\\SetCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
