@@ -230,8 +230,12 @@ namespace SetCalculator
 			bool isExistRange = false;
 			do
 			{
-				result = Functions.InputTypeInteger("Введите значение нового элемента множества, лежащего в отрезке [" + a + "; " + b + "]");
+				result = Functions.InputTypeInteger("Введите значение нового элемента множества, лежащего в отрезке [" + a + "; " + b + "] : ");
 				isExistRange = result <= b && result >= a;
+				if (!isExistRange)
+                {
+					Console.WriteLine("Ошибка: введённое значение не принадлежит заданному отрезку");
+                }
 			} while (!isExistRange);
 			return result;
         }
